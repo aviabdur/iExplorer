@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&family=Square+Peg&family=Ubuntu+Mono&display=swap');
+
+.navbar-brand{
+    font-family: 'Square Peg', cursive;
+    font-size:x-large;
+    color: rgb(159, 210, 255);
+}
+nav
+.bd-footer-links{
+    display: flex;
+    justify-content: center;
+}
+.bd-footer-links li{
+    list-style: none;
+    padding: 0px 10px;
+}
+.bd-footer-links a{
+    color: rgb(94, 94, 94);
+    font-weight: bold;
+    
+}
